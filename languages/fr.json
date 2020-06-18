@@ -1,0 +1,4 @@
+{
+    "action_download" : "Télécharger ce fichier",
+    "files_found"     : "$1 {{PLURAL:$1|a été téléchargé|ont été téléchargés}}"
+}
